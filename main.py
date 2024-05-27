@@ -123,7 +123,7 @@ print(f''' \n
     .;
      ;;.  
    ;.;;    
-   ;;;;.  [ Play Store Apk Downloader ]
+   ;;;;.  [ APK Pure Downloader ]
    ;;;;;   
    ;;;;;     - Author: Njank Yuti
  ..;;;;;..   - Codename: N.yvt1
