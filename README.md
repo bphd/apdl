@@ -1,1 +1,1 @@
-### For download apk file from APK Pure
+### For download apk file from Play Store
